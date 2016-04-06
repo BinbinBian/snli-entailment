@@ -1,4 +1,4 @@
-Implementation of a attention model for entailment (for fun with keras) from [this paper](http://arxiv.org/abs/1509.06664).
+Implementation of a attention model for entailment (for fun with keras) from [this paper](http://arxiv.org/abs/1509.06664)Reasoning about Entailment with Neural Attention.Rocktaschel.2015.
 The code is research quality -- which means there are no guarantees!
 
 It works, but somewhat poorly than the numbers in the paper.
